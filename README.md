@@ -11,7 +11,7 @@ Trabajos para java
   
 • Créditos.
 
-Jose Luis Cuellar
+Jose Luis C.
 
 • Licencia.
 
